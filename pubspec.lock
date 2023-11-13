@@ -181,10 +181,18 @@ packages:
     dependency: "direct main"
     description:
       name: firebase_dart
-      sha256: "705a4b3f19402d9e4b61ec93bb3b8e0ef80f77b1d84331a774e651c874f97a2f"
+      sha256: a65039f23dd699e52d05edba5404a055c25db97b1e8a0958516189a4c116ae93
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.11"
+    version: "1.1.1"
+  firebaseapis:
+    dependency: transitive
+    description:
+      name: firebaseapis
+      sha256: "7e9663f298a209dc7d4e8a10944d6c39d43e02e9cade08c915720768d02d712d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.0"
   fixnum:
     dependency: transitive
     description:
@@ -229,18 +237,10 @@ packages:
     dependency: transitive
     description:
       name: googleapis
-      sha256: dfea9984f0785ed445ba78e2aa8c55dadd86d6a60ea9e0ffbadad51edb5e7e36
+      sha256: c2f311bcd1b3e4052234162edc6b626a9013a7e1385d6aad37e9e6a6c5f89908
       url: "https://pub.dev"
     source: hosted
-    version: "9.2.0"
-  googleapis_auth:
-    dependency: transitive
-    description:
-      name: googleapis_auth
-      sha256: af7c3a3edf9d0de2e1e0a77e994fae0a581c525fa7012af4fa0d4a52ed9484da
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.4.1"
+    version: "11.4.0"
   hive:
     dependency: transitive
     description:
@@ -253,10 +253,10 @@ packages:
     dependency: "direct main"
     description:
       name: http
-      sha256: "5895291c13fa8a3bd82e76d5627f69e0d85ca6a30dcac95c4ea19a5d555879c2"
+      sha256: "759d1a329847dd0f39226c688d3e06a6b8679668e350e2891a6474f8b4bb8525"
       url: "https://pub.dev"
     source: hosted
-    version: "0.13.6"
+    version: "1.1.0"
   http_multi_server:
     dependency: transitive
     description:
@@ -365,10 +365,10 @@ packages:
     dependency: "direct main"
     description:
       name: openid_client
-      sha256: "514c0ba645b81029c28999831a70cb055dda1a3bc60be759a04d2556f60ec960"
+      sha256: "043878e907b7a1b460b54fb7b3b27b101cf70d4ac28b32a2db87ae67dbaed611"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.7"
+    version: "0.4.8"
   package_config:
     dependency: transitive
     description:
